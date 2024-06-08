@@ -1,5 +1,5 @@
 {
-  "name": "Figma drop shadow to CSS box shadow",
+  "name": "Figma drop and inner shadow to CSS box shadow",
   "id": "1374511779922909714",
   "api": "1.0.0",
   "main": "dist/src/code/code.js",

@@ -4,7 +4,7 @@
 
 ### **Building the project locally**
 
-```
+```bash
 git clone https://github.com/oubbad-brahim/figma-to-css-box-shadow.git
 cd figma-to-css-box-shadow
 npm install
