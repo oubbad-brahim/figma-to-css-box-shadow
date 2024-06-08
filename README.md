@@ -1,4 +1,4 @@
-# Figma drop and inner shadow to CSS box shado Plugin
+# Figma drop and inner shadow to CSS box shadow Plugin
 
 ## Get started
 
@@ -23,4 +23,6 @@ When running `npm start` your application will be compiled on save, but you can 
 
 ### Support
 
-If you benefit from this plugin you can [support me](https://ko-fi.com/oubbadbrahim), I'd be very grateful!
+If you benefit from this plugin you can
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/oubbadbrahim)

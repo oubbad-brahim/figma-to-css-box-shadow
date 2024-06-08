@@ -30,6 +30,7 @@
   border: 0.1rem solid gray;
   background: transparent !important;
   padding-bottom: 4rem !important;
+  scrollbar-width: none;
 }
 
 .hljs::-webkit-scrollbar {
